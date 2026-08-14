@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✍ Eu desenho<br>⚽Amo futebol (Corinthians)<br>🥊 Pratico luta (de vez em quando)</p>
+<p align="left">✍ Eu desenho<br>⚽Amo futebol (Corinthians)<br>🥊 Pratico luta (de vez em quando)<br>🇪🇸 Falo espanhol fluente</p>
 
 ###
 
