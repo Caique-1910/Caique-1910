@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✍ Eu desenho<br>⚽Amo futebol (Corinthians)<br>🥊 Pratico luta (de vez em quando)<br>🇪🇸 Falo espanhol fluente</p>
+<p align="left">
+  ✍️ Desenhista<br>
+  ⚽ Apaixonado por futebol e torcedor do Corinthians<br>
+  🥊 Praticante de luta (As vezes)<br>
+  <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg" height="16" alt="Bandeira da Espanha" /> Espanhol fluente
+</p>
 
 ###
 
