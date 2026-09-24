@@ -101,32 +101,31 @@
 </p>
 
 ###
-###
 
 <h2 align="left">🎮 Quando não estou codando...</h2>
 
 ###
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://wiki.leagueoflegends.com/en-us/images/5/5c/Ekko_TrueDamage_%28Base%29.png"
-          height="220"
-          alt="Ekko True Damage"
-        />
-      </td>
-      <td>
-        <h3>⚡ Ekko True Damage</h3>
-        <p>
-          Main Ekko no Wild Rift 🎮<br>
-          Amante de LoL e de fazer plays duvidosas 💀<br><br>
-          <strong>"Só mais uma partida..."</strong>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<img
+ src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg"
+ width="500"
+ alt="Ekko"
+/>
+
+<br><br>
+
+<strong>⚡ Ekko Main no Wild Rift</strong>
+
+  <br>
+
+🎮 Amante de LoL e de fazer plays duvidosas 💀
+
+<br><br>
+
+<i>"Só mais uma partida..."</i>
+
 </div>
 
 ###
