@@ -17,7 +17,7 @@
   ⚽ Apaixonado por futebol e torcedor do Corinthians<br>
   🥊 Praticante de luta (Às vezes)<br>
   <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg" height="16" alt="Bandeira da Espanha" /> Espanhol fluente<br>
-  📱 Desenvolvedor de aplicações Web e Mobile
+  💻 Desenvolvedor fullstack
 </p>
 
 ###
@@ -101,18 +101,32 @@
 </p>
 
 ###
+###
 
 <h2 align="left">🎮 Quando não estou codando...</h2>
 
 ###
 
-<p align="center">
-  <img src="https://i.imgflip.com/30b1gx.jpg" width="500" alt="Meme de League of Legends" />
-</p>
-
-<p align="center">
-  <strong>Eu depois de falar que vou jogar só uma partida:</strong><br>
-  "Só mais uma e eu paro." 🎮💀
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://wiki.leagueoflegends.com/en-us/images/5/5c/Ekko_TrueDamage_%28Base%29.png"
+          height="220"
+          alt="Ekko True Damage"
+        />
+      </td>
+      <td>
+        <h3>⚡ Ekko True Damage</h3>
+        <p>
+          Main Ekko no Wild Rift 🎮<br>
+          Amante de LoL e de fazer plays duvidosas 💀<br><br>
+          <strong>"Só mais uma partida..."</strong>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
